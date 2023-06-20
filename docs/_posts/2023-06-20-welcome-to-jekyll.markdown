@@ -14,18 +14,17 @@ categories: jekyll update
 
  <img src="https://media.tenor.com/oUBstqaKvYQAAAAC/dogecoin-doge.gif" width="40px" height="40px"/>
 
-
-
 # **6/20 Development Update**
 
-- Installed everything required to get jekyll running on my system  
-   - Experienced multiple errors that ended up being a result of lack of permissions  
-  which were resolved by using the commands to a specific path.  
+- Installed everything required to get jekyll running on my system
 
-- Used jekyll to created a static website  
+  - Experienced multiple errors that ended up being a result of lack of permissions  
+    which were resolved by using the commands to a specific path.
+
+- Used jekyll to created a static website
 - Deployed the static website using github pages under notjamesb.github.io
-- Learned more about Markdown and it's syntax  
+- Learned more about Markdown and it's syntax
+
   - Plans to make the website more "Me".
 
 - Created a new larvel project with plans to make a new API App
-
