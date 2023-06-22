@@ -28,3 +28,11 @@ categories: jekyll update
   - Plans to make the website more "Me".
 
 - Created a new larvel project with plans to make a new API App
+
+
+# **6/21 Development Update**  
+
+- Keywords go in config folder  
+  - My task is to create an api that calls the DIR api that will return active codes for that market. And then call the keyword with semrush for the US/region.
+- Development today was slower because of work obligations  
+i plan to dig deeper into it tomorrow!
