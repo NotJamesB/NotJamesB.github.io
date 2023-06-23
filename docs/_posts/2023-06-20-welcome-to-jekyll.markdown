@@ -29,10 +29,17 @@ categories: jekyll update
 
 - Created a new larvel project with plans to make a new API App
 
+# **6/21 Development Update**
 
-# **6/21 Development Update**  
-
-- Keywords go in config folder  
+- Keywords go in config folder
   - My task is to create an api that calls the DIR api that will return active codes for that market. And then call the keyword with semrush for the US/region.
 - Development today was slower because of work obligations  
-i plan to dig deeper into it tomorrow!
+  i plan to dig deeper into it tomorrow!
+
+# **6/22 Development Update**
+
+- Looked into SEMrush and their api documentation
+  - A pro/business plan is needed to access their api, so i will just manuall add the weight of the search results for now  
+- Added the "keyword array" to my config file
+- Constructed a controller to grab the keyword with the weight of the keyword based on how often it's searched (With manual weight placeholders for now)  
+- Initial commit to new repository
