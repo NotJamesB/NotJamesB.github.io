@@ -1,0 +1,23 @@
+---
+layout: page
+title: "Helpful Sources and Links"
+date: 2023-06-20 13:31:03 -0700
+categories: jekyll update
+---
+
+## Helpful CSS Links
+
+1. <a href="https://coolcssanimation.com/how-to-trigger-a-css-animation-on-scroll/">CSS Animations</a>
+2. <a href="https://brandeps.com/">CSS Vector Images</a>
+3. <a href="https://www.freepik.com/free-photos-vectors/purple-tech-background">Fun Backgrounds</a>
+4. <a href="https://css-tricks.com/">CSS Cheat Sheet</a>
+5. <a href="https://getbootstrap.com/docs/3.4/css/#grid">Bootstrap Cheet Sheet</a>
+6. <a href="https://codepen.io/chrisdixon161/pen/VwexxYO"> Super cool Parallax effect!</a>
+
+## Great Development Sources  
+
+1. <a href="https://dev.to/">A place where dev's share their code snippets</a>
+2. <a href="https://laravel.com/docs">Just the almighty Laravel Docs</a>
+3. <a href="https://adplist.org/explore?tab=mentors">A cool place to find DEV mentors</a>  
+
+<img src="https://media.tenor.com/dDZAejq7_jQAAAAC/typing-cat.gif" width="200" height="200">

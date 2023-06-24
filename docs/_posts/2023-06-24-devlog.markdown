@@ -1,0 +1,15 @@
+---
+layout: page
+title: "My To-Do's"
+date: 2023-06-20 13:31:03 -0700
+categories: jekyll update
+---
+
+# Daily To-Do's
+
+- Work on the DMScore Appraiser API  
+- Commit/Push all changes  
+- Ask Questions  
+- Be Present/Available  
+
+<img src="https://media.tenor.com/qqjSGTHg1N8AAAAi/okayge-okayge-business.gif">

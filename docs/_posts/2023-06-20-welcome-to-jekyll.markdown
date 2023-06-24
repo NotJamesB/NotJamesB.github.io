@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Daily Dev Journal!"
+title: "June Production Updates"
 date: 2023-06-20 13:31:03 -0700
 categories: jekyll update
 ---
 
 ## Daily Reminders/Affirmations
 
-1. Make fake promises.
+1. Be present  
 2. Develop, Do things that you enjoy, Do it for yourself.
 3. Be productive.
 4. Don't stress yourself out.
@@ -48,3 +48,11 @@ categories: jekyll update
 
 - Manually added weights to the search results based off actual traffic
 - Slower development day due to double work shift
+
+
+# **6/24 Development Update**  
+
+- Updated API handler class to accurately represent data  
+- Added more tabs and information on my dev Journal  
+  - This way i can more accurately and easily check my links, to-do's and developer updates
+- Learned more about github processes and corrected issues with merging/pushing to my current repository
