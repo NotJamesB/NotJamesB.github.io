@@ -39,7 +39,12 @@ categories: jekyll update
 # **6/22 Development Update**
 
 - Looked into SEMrush and their api documentation
-  - A pro/business plan is needed to access their api, so i will just manuall add the weight of the search results for now  
+  - A pro/business plan is needed to access their api, so i will just manuall add the weight of the search results for now
 - Added the "keyword array" to my config file
-- Constructed a controller to grab the keyword with the weight of the keyword based on how often it's searched (With manual weight placeholders for now)  
+- Constructed a controller to grab the keyword with the weight of the keyword based on how often it's searched (With manual weight placeholders for now)
 - Initial commit to new repository
+
+# **6/23 Development Update**
+
+- Manually added weights to the search results based off actual traffic
+- Slower development day due to double work shift
