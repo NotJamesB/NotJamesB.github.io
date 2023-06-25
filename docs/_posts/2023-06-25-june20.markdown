@@ -1,0 +1,22 @@
+---
+layout: page
+title: "June Production Updates"
+date: 2023-06-20 13:31:03 -0700
+categories: jekyll update
+---
+
+
+# **6/20 Development Update**
+
+- Installed everything required to get jekyll running on my system
+
+  - Experienced multiple errors that ended up being a result of lack of permissions  
+    which were resolved by using the commands to a specific path.
+
+- Used jekyll to created a static website
+- Deployed the static website using github pages under notjamesb.github.io
+- Learned more about Markdown and it's syntax
+
+  - Plans to make the website more "Me".
+
+- Created a new larvel project with plans to make a new API App

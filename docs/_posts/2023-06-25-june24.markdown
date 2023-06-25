@@ -1,0 +1,13 @@
+---
+layout: page
+title: "June Production Updates"
+date: 2023-06-20 13:31:03 -0700
+categories: jekyll update
+---
+
+# **6/24 Development Update**  
+
+- Updated API handler class to accurately represent data  
+- Added more tabs and information on my dev Journal  
+  - This way i can more accurately and easily check my links, to-do's and developer updates
+- Learned more about github processes and corrected issues with merging/pushing to my current repository

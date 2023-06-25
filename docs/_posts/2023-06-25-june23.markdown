@@ -1,0 +1,12 @@
+---
+layout: page
+title: "June Production Updates"
+date: 2023-06-20 13:31:03 -0700
+categories: jekyll update
+---
+
+
+# **6/23 Development Update**
+
+- Manually added weights to the search results based off actual traffic
+- Slower development day due to double work shift
