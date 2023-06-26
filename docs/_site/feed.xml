@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-25T20:03:06-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">James Bucsko Dev Journal</title><subtitle>A cool place where i post my updates, to-do&apos;s and other things that i can think about!</subtitle><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june24.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june24</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june24.html">&lt;h1 id=&quot;624-development-update&quot;&gt;&lt;strong&gt;6/24 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updated API handler class to accurately represent data&lt;/li&gt;
+  &lt;li&gt;Added more tabs and information on my dev Journal
+    &lt;ul&gt;
+      &lt;li&gt;This way i can more accurately and easily check my links, to-do’s and developer updates&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Learned more about github processes and corrected issues with merging/pushing to my current repository&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/24 Development Update</summary></entry><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll.html">&lt;h1 id=&quot;625-development-update&quot;&gt;&lt;strong&gt;6/25 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;what-i-did&quot;&gt;What i did&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Full revamp of the way i’m approaching my gitpage/Journal
+    &lt;ul&gt;
+      &lt;li&gt;I want to make the page more professional and practical, i’ve decided to fully re-vamp the look and feel of it and plan on doing more in the future
+this way i can really show how i work and the way i do things.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Added links, email contact information and stylization to the home page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-i-need-to-do&quot;&gt;What i need to do&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Continue work on the API Appraiser for DMScore&lt;/li&gt;
+  &lt;li&gt;Add more data for the api class to handler&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/25 Development Update</summary></entry><entry><title type="html">Helpful Sources and Links</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june21.html" rel="alternate" type="text/html" title="Helpful Sources and Links" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june21</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june21.html">&lt;h1 id=&quot;621-development-update&quot;&gt;&lt;strong&gt;6/21 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Keywords go in config folder
+    &lt;ul&gt;
+      &lt;li&gt;My task is to create an api that calls the DIR api that will return active codes for that market. And then call the keyword with semrush for the US/region.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Development today was slower because of work obligations&lt;br /&gt;
+i plan to dig deeper into it tomorrow!&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/21 Development Update</summary></entry><entry><title type="html">My To-Do’s</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june22.html" rel="alternate" type="text/html" title="My To-Do’s" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june22</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june22.html">&lt;h1 id=&quot;622-development-update&quot;&gt;&lt;strong&gt;6/22 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Looked into SEMrush and their api documentation
+    &lt;ul&gt;
+      &lt;li&gt;A pro/business plan is needed to access their api, so i will just manuall add the weight of the search results for now&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Added the “keyword array” to my config file&lt;/li&gt;
+  &lt;li&gt;Constructed a controller to grab the keyword with the weight of the keyword based on how often it’s searched (With manual weight placeholders for now)&lt;/li&gt;
+  &lt;li&gt;Initial commit to new repository&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/22 Development Update</summary></entry><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june20.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june20</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june20.html">&lt;h1 id=&quot;620-development-update&quot;&gt;&lt;strong&gt;6/20 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Installed everything required to get jekyll running on my system&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Experienced multiple errors that ended up being a result of lack of permissions&lt;br /&gt;
+which were resolved by using the commands to a specific path.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Used jekyll to created a static website&lt;/li&gt;
+  &lt;li&gt;Deployed the static website using github pages under notjamesb.github.io&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learned more about Markdown and it’s syntax&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Plans to make the website more “Me”.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Created a new larvel project with plans to make a new API App&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/20 Development Update</summary></entry><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june23.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june23</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june23.html">&lt;h1 id=&quot;623-development-update&quot;&gt;&lt;strong&gt;6/23 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Manually added weights to the search results based off actual traffic&lt;/li&gt;
+  &lt;li&gt;Slower development day due to double work shift&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/23 Development Update</summary></entry></feed>
