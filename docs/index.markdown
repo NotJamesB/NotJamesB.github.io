@@ -4,6 +4,7 @@
 
 layout: page
 ---
+
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home">
@@ -26,6 +27,9 @@ layout: page
             </li>
             <li>
               <a href="/jekyll/update/2023/06/20/welcome-to-jekyll">June 25th Log</a>
+            </li>
+            <li>
+              <a href="/jekyll/update/2023/06/20/june26">June 26th Log</a>
             </li>
           </ul>
           <h3 style="color:rgb(0, 0, 0)">

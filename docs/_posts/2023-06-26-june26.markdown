@@ -1,0 +1,18 @@
+---
+layout: page
+title: "June Production Updates"
+date: 2023-06-20 13:31:03 -0700
+categories: jekyll update
+---
+
+
+# **6/26 Development Update**  
+
+## What i did
+- Reasearched more about API's and how to use them more efficiently
+    - My plan in doing this is trying to go back to the basics of API's and understand how i can do things more efficently so i can inevitably produce better code
+
+## What i need to do
+
+- Continue work on the API Appraiser for DMScore
+- Add more data for the api class to handler  
