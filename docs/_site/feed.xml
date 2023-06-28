@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-25T20:15:25-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">James Bucsko Dev Journal</title><subtitle>A cool place where i post my updates, to-do&apos;s and other things that i can think about!</subtitle><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june24.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june24</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june24.html">&lt;h1 id=&quot;624-development-update&quot;&gt;&lt;strong&gt;6/24 Development Update&lt;/strong&gt;&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-28T12:13:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">James Bucsko Dev Journal</title><subtitle>A cool place where i post my updates, to-do&apos;s and other things that i can think about!</subtitle><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/27/june27.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-27T13:31:03-07:00</published><updated>2023-06-27T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/27/june27</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/27/june27.html">&lt;h1 id=&quot;628-development-update&quot;&gt;&lt;strong&gt;6/28 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;what-i-did&quot;&gt;What i did&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Updated API handler class to accurately represent data&lt;/li&gt;
-  &lt;li&gt;Added more tabs and information on my dev Journal
+  &lt;li&gt;Added a post funtion to the app
     &lt;ul&gt;
-      &lt;li&gt;This way i can more accurately and easily check my links, to-do’s and developer updates&lt;/li&gt;
+      &lt;li&gt;I added a post function so we can efficiently store data into the array of data without the need of digging into the main files to do so&lt;/li&gt;
+      &lt;li&gt;Only issue with this is that i now need somewhere to STORE the array so that i can update the existing stored data and retrieve it. That’s where MySql Comes in.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Learned more about github processes and corrected issues with merging/pushing to my current repository&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/24 Development Update</summary></entry><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll.html">&lt;h1 id=&quot;625-development-update&quot;&gt;&lt;strong&gt;6/25 Development Update&lt;/strong&gt;&lt;/h1&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-i-need-to-do&quot;&gt;What i need to do&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a table and database to effectively store the array of data&lt;/li&gt;
+  &lt;li&gt;Successfully store the data inside the DB so that we can consistently update the API with new information and keywords.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/28 Development Update</summary></entry><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/welcome-to-jekyll.html">&lt;h1 id=&quot;625-development-update&quot;&gt;&lt;strong&gt;6/25 Development Update&lt;/strong&gt;&lt;/h1&gt;
 
 &lt;h2 id=&quot;what-i-did&quot;&gt;What i did&lt;/h2&gt;
 &lt;ul&gt;
@@ -73,4 +81,30 @@ which were resolved by using the commands to a specific path.&lt;/li&gt;
 &lt;ul&gt;
   &lt;li&gt;Manually added weights to the search results based off actual traffic&lt;/li&gt;
   &lt;li&gt;Slower development day due to double work shift&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/23 Development Update</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/23 Development Update</summary></entry><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june24.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june24</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june24.html">&lt;h1 id=&quot;624-development-update&quot;&gt;&lt;strong&gt;6/24 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updated API handler class to accurately represent data&lt;/li&gt;
+  &lt;li&gt;Added more tabs and information on my dev Journal
+    &lt;ul&gt;
+      &lt;li&gt;This way i can more accurately and easily check my links, to-do’s and developer updates&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Learned more about github processes and corrected issues with merging/pushing to my current repository&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/24 Development Update</summary></entry><entry><title type="html">June Production Updates</title><link href="http://localhost:4000/jekyll/update/2023/06/20/june26.html" rel="alternate" type="text/html" title="June Production Updates" /><published>2023-06-20T13:31:03-07:00</published><updated>2023-06-20T13:31:03-07:00</updated><id>http://localhost:4000/jekyll/update/2023/06/20/june26</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/20/june26.html">&lt;h1 id=&quot;626-development-update&quot;&gt;&lt;strong&gt;6/26 Development Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;what-i-did&quot;&gt;What i did&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reasearched more about API’s and how to use them more efficiently
+    &lt;ul&gt;
+      &lt;li&gt;My plan in doing this is trying to go back to the basics of API’s and understand how i can do things more efficently so i can inevitably produce better code&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-i-need-to-do&quot;&gt;What i need to do&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Continue work on the API Appraiser for DMScore&lt;/li&gt;
+  &lt;li&gt;Add more data for the api class to handler&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">6/26 Development Update</summary></entry></feed>

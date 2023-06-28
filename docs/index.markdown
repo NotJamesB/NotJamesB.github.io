@@ -31,6 +31,12 @@ layout: page
             <li>
               <a href="/jekyll/update/2023/06/20/june26">June 26th Log</a>
             </li>
+            <li>
+            June 27th, No development due to private issues
+            </li>
+            <li>
+              <a href="/jekyll/update/2023/06/27/june27">June 28th Log</a>
+            </li>
           </ul>
           <h3 style="color:rgb(0, 0, 0)">
             <b>Awesome Links for productivity</b>

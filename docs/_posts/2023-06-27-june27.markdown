@@ -1,0 +1,19 @@
+---
+layout: page
+title: "June Production Updates"
+date: 2023-06-27 13:31:03 -0700
+categories: jekyll update
+---
+
+# **6/28 Development Update**
+
+## What i did
+
+- Added a post funtion to the app
+  - I added a post function so we can efficiently store data into the array of data without the need of digging into the main files to do so
+  - Only issue with this is that i now need somewhere to STORE the array so that i can update the existing stored data and retrieve it. That's where MySql Comes in.
+
+## What i need to do
+
+- Create a table and database to effectively store the array of data
+- Successfully store the data inside the DB so that we can consistently update the API with new information and keywords.
