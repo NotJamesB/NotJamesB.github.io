@@ -1,0 +1,18 @@
+---
+layout: page
+title: "June Production Updates"
+date: 2023-06-27 13:31:03 -0700
+categories: jekyll update
+---
+
+# **6/28 Development Update**
+
+## What i did
+
+- Implimented PostgreSQL in order to effectively store and call data into and from the database 
+    - Created functions to store and retrieve data from the database in the controllers.
+
+## What i need to do
+
+- Create a Update, Delete and "Get All" function for the database
+- Update the DB with the current SEMrush data
